@@ -1,0 +1,22 @@
+{
+  "name": "ichat",
+  "version": "1.0.0",
+  "description": "This ia a node server for our iChat application",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi735284/ichat-real-time-chatting-app.git"
+  },
+  "author": "\" Abhi\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi735284/ichat-real-time-chatting-app/issues"
+  },
+  "homepage": "https://github.com/abhi735284/ichat-real-time-chatting-app#readme",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  }
+}
